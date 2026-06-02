@@ -25,7 +25,10 @@ To write a Python program that demonstrates **operator overloading** by overload
 ---
 
 ## 💻 Program
+<img width="473" height="502" alt="image" src="https://github.com/user-attachments/assets/b03d0e02-b1f9-491a-bb36-f11820ccad77" />
 
 ## Output
+<img width="242" height="112" alt="image" src="https://github.com/user-attachments/assets/73db627c-a48a-4d01-90e8-e579bded37a7" />
 
 ## Result
+Thus, the above asked program is encoded and excecuted.
